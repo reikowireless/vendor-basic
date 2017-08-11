@@ -3,3 +3,4 @@
 ## Requirement
   * node.js
   * npm
+  * mongodb
