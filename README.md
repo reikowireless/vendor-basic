@@ -1,5 +1,5 @@
 # vendor-basic
 
-##Requirement
-*node.js
-*npm
+## Requirement
+  * node.js
+  * npm
